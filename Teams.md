@@ -17,3 +17,6 @@ MATlab Newbs: Jon, Lisa, Kristyn, Jenny
 
 
 What happens in Vagus ... : Byron, Scott, Wei Zhong, Dae Kyoo
+
+
+Auditors: Brain C, Tushare J, Ashley S, Smrithi S
